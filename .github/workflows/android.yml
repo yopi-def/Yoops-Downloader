@@ -24,10 +24,10 @@ jobs:
         uses: gradle/actions/setup-gradle@v4
 
       - name: Make gradlew executable
-        run: chmod +x ./gradlew
+        run: chmod +x ./gradle
 
       - name: Build Debug APK
-        run: ./gradlew assembleDebug
+        run: ./gradle assembleDebug
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
