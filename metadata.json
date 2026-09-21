@@ -1,0 +1,6 @@
+{
+  "name": "MORI Downloader",
+  "description": "Native multi-platform media downloader supporting TikTok, YouTube, Instagram, X/Twitter, Facebook, Pinterest, Threads, Douyin, RedNote, Bilibili, Pixiv, Spotify, Apple Music, and Bandcamp with local Room history, concurrent queue management, and MediaStore storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
